@@ -108,7 +108,10 @@ function skinCanvas(kind, r) {
 export function drawSkin(ctx, kind, alpha = 1) {
   if (alpha <= 0) return; ctx.save(); ctx.globalAlpha = alpha; mapSpace(ctx); ctx.imageSmoothingQuality = 'high';
   const wm = A.skins.world; const wy0 = my(wm.lat1), wy1 = my(wm.lat0); const wc = skinCanvas(kind, 'world');
-  for (const off of [-1, 0, 1]) ctx.drawImage(wc, Math.floor(ux(cam.lon)) + off, wy0, 1, wy1 - wy0);
+  for (const off of [-1, 0, 1]) { const x = Math.floor(ux(cam.lon)) + off;
+    // past the map's top/bottom edge, stretch the edge row so the camera never sees empty space
+    ctx.drawImage(wc, 0, 0, wc.width, 2, x, wy0 - 3, 1, 3 + 1e-4); ctx.drawImage(wc, 0, wc.height - 2, wc.width, 2, x, wy1 - 1e-4, 1, 3);
+    ctx.drawImage(wc, x, wy0, 1, wy1 - wy0); }
   for (const r of A.regions) { const m = A.skins[r]; if (cam.ppd < m.ppd * 0.25) continue; const x0 = ux(m.lon0), x1 = ux(m.lon1), y0 = my(m.lat1), y1 = my(m.lat0); const base = Math.round(ux(cam.lon) - (x0 + x1) / 2);
     ctx.drawImage(skinCanvas(kind, r), x0 + base, y0, x1 - x0, y1 - y0); }
   ctx.restore();

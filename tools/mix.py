@@ -3,7 +3,7 @@ usage: python3 tools/mix.py <project_dir> [--music path.mp3] [--no-music] [--luf
 Needs <project>/voice.mp3, <project>/out/video_noaudio.mp4, <project>/out/sfx_events.json (written by the renderer)."""
 import sys, os, json, glob, random, argparse, subprocess, numpy as np
 ap = argparse.ArgumentParser(); ap.add_argument('proj'); ap.add_argument('--music'); ap.add_argument('--no-music', action='store_true'); ap.add_argument('--lufs', type=float, default=-16)
-ap.add_argument('--allow-synth', action='store_true', help='test renders only'); ap.add_argument('--sfx-gain', type=float, default=0.0); ap.add_argument('--music-gain', type=float, default=-21.0)
+ap.add_argument('--allow-synth', action='store_true', help='test renders only'); ap.add_argument('--sfx-gain', type=float, default=0.0); ap.add_argument('--music-gain', type=float, default=-19.0, help='music level in dB relative to the voice (in gaps; it drops ~8 dB more under speech)')
 a = ap.parse_args(); P = a.proj.rstrip('/'); KIT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'); LIB = KIT + '/audio_lib'; SR = 44100
 def load(p): raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', p, '-ac', '2', '-ar', str(SR), '-f', 'f32le', '-'], capture_output=True).stdout; return np.frombuffer(raw, np.float32).reshape(-1, 2).copy()
 voice = load(f'{P}/voice.mp3'); vid = f'{P}/out/video_noaudio.mp4'
@@ -36,7 +36,9 @@ if not a.no_music:
     if not track and not a.allow_synth: sys.exit('STOP: no real unused music track. Ask the person for music (or run tools/collect_audio.py on their PC). Never use generated music in a real video.')
     if track:
         m = load(track); reps = int(np.ceil(N / len(m))); m = np.tile(m, (reps, 1))[:N]; fade = int(2 * SR); m[-fade:] *= np.linspace(1, 0, fade)[:, None]
-        mus = m * (10 ** (a.music_gain / 20)) * (1 - 0.55 * np.clip(env / (env.max() + 1e-9) * 3, 0, 1))[:, None]
+        # level the music against the voice, so a loud master track can't drown the narration
+        sp = env > 0.25 * env.max(); vr = np.sqrt((v[sp] ** 2).mean() + 1e-12); mr = np.sqrt((m ** 2).mean() + 1e-12)
+        mus = m * (vr / mr) * (10 ** (a.music_gain / 20)) * (1 - 0.6 * np.clip(env / (env.max() + 1e-9) * 3, 0, 1))[:, None]
         k = os.path.basename(track)
         if k in cred: cred[k]['used_in'] = os.path.basename(P); json.dump(cred, open(f'{LIB}/CREDITS.json', 'w'), indent=1)
     else: print('WARNING: no unused music in audio_lib/music — run tools/collect_audio.py on your PC, or pass --music. Rendering without music.')
