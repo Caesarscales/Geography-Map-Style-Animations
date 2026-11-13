@@ -1,0 +1,5 @@
+SLAVE TRADE — PASS 2 (true 30 fps; numbers = frame @30)
+NOTE: file is 60 fps but every frame is doubled => animation is authored at 30 fps.
+MAP->SCENE BRIDGE f585-599: green neon "$" grows up from bottom (f587-591, ~5 f, overshoot), then does a coin-SPIN (squash horizontally to a line and back, f592-594 & f597-599) while the plantation scene crossfades in over ~10 f (f592-602). The owner rises from bottom-left corner during the dissolve. Title + map ghost under the new scene for ~8 f. Bridge object rule: an object persists across the dissolve.
+BANNED STAMP f342-351: a red ribbon/swoosh streak sweeps across frame f346 (1 f smear), stamp appears HUGE (~2.5x final, frame-filling) at f347 and shrinks to final over ~4 f (f347-351) with ~10 deg rotation; red ink is distressed/grungy. No overshoot bounce, just a hard slam. Stays on map plane after.
+DOCUMENT UNROLL f1668-1682: the parchment enters from the TOP-LEFT CORNER as a diagonal page-curl (paper peels in along a diagonal fold, showing the mirrored back side), ~14 f to open fully; text visible mirrored on the curl. Exits by curling back the same way (58.0 s).

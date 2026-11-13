@@ -1,0 +1,2 @@
+-STAN — PASS 2 (60 fps; frame numbers @60)
+COUNTRY INTRO f324-353 (Kazakhstan): a YELLOW glowing border stroke draws itself around the country first (f326-340, ~14 f@60 = 0.23 s, travelling along the outline), interior goes pale pink -> WHITE (f339-347 peak), then settles toward the final fill colour. Flag + label type in DURING the white stage. Same white-flash recolour as Gambia, but preceded by a border trace.

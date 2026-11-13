@@ -1,0 +1,1 @@
+{ "name": "geo-kit-chibi", "private": true, "dependencies": { "three": "0.170.0", "playwright": "1.49.1" } }

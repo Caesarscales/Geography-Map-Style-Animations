@@ -1,0 +1,1366 @@
+{
+ "meta": {
+  "title": "Why Russia Sold Alaska",
+  "words": "words.json",
+  "watermark": "",
+  "duration": 74.6,
+  "regions": [
+   "auto_34_45_1",
+   "auto_m135_57_3",
+   "auto_m136_58_1"
+  ],
+  "region_defs": {}
+ },
+ "camera": [
+  {
+   "t": 0,
+   "at": [
+    -160,
+    57
+   ],
+   "zoom": 8
+  },
+  {
+   "t": 0.9,
+   "at": [
+    -152,
+    63.5
+   ],
+   "zoom": 19
+  },
+  {
+   "t": "w5",
+   "at": [
+    -154,
+    63.5
+   ],
+   "zoom": 17
+  },
+  {
+   "t": "w7",
+   "at": [
+    -172,
+    63
+   ],
+   "zoom": 12
+  },
+  {
+   "t": "w11",
+   "at": [
+    -160,
+    60
+   ],
+   "zoom": 11
+  },
+  {
+   "t": "w16",
+   "at": [
+    -128,
+    50
+   ],
+   "zoom": 8.5
+  },
+  {
+   "t": "w25",
+   "at": [
+    -126,
+    50
+   ],
+   "zoom": 8
+  },
+  {
+   "t": "w31",
+   "at": [
+    -148,
+    60
+   ],
+   "zoom": 12
+  },
+  {
+   "t": "w36",
+   "at": [
+    -152,
+    63.5
+   ],
+   "zoom": 20
+  },
+  {
+   "t": "w41",
+   "at": [
+    -152,
+    63.5
+   ],
+   "zoom": 17
+  },
+  {
+   "t": "w43",
+   "at": [
+    -90,
+    66
+   ],
+   "zoom": 5
+  },
+  {
+   "t": "w46",
+   "at": [
+    34,
+    45
+   ],
+   "zoom": 38
+  },
+  {
+   "t": "w50",
+   "at": [
+    33.6,
+    44.8
+   ],
+   "zoom": 46
+  },
+  {
+   "t": "w55",
+   "at": [
+    34,
+    46
+   ],
+   "zoom": 30
+  },
+  {
+   "t": "w56",
+   "at": [
+    -90,
+    66
+   ],
+   "zoom": 5
+  },
+  {
+   "t": "w58",
+   "at": [
+    -152,
+    63.5
+   ],
+   "zoom": 19
+  },
+  {
+   "t": "w64",
+   "at": [
+    -148,
+    61
+   ],
+   "zoom": 24
+  },
+  {
+   "t": "w67",
+   "at": [
+    -136,
+    57.6
+   ],
+   "zoom": 70
+  },
+  {
+   "t": "w73",
+   "at": [
+    -138,
+    58
+   ],
+   "zoom": 55
+  },
+  {
+   "t": "w83",
+   "at": [
+    -140,
+    60
+   ],
+   "zoom": 18
+  },
+  {
+   "t": "w88",
+   "at": [
+    -128,
+    60
+   ],
+   "zoom": 10
+  },
+  {
+   "t": "w96",
+   "at": [
+    -134,
+    61
+   ],
+   "zoom": 12
+  },
+  {
+   "t": "w102",
+   "at": [
+    -140,
+    62
+   ],
+   "zoom": 12.5
+  },
+  {
+   "t": "w103",
+   "at": [
+    -40,
+    66
+   ],
+   "zoom": 5
+  },
+  {
+   "t": "w105",
+   "at": [
+    38,
+    58
+   ],
+   "zoom": 12
+  },
+  {
+   "t": "w115",
+   "at": [
+    38,
+    57
+   ],
+   "zoom": 13
+  },
+  {
+   "t": "w116",
+   "at": [
+    -40,
+    50
+   ],
+   "zoom": 5
+  },
+  {
+   "t": "w118",
+   "at": [
+    -77,
+    39
+   ],
+   "zoom": 30
+  },
+  {
+   "t": "w129",
+   "at": [
+    -77,
+    39
+   ],
+   "zoom": 36
+  },
+  {
+   "t": "w131",
+   "at": [
+    -110,
+    50
+   ],
+   "zoom": 8
+  },
+  {
+   "t": "w134",
+   "at": [
+    -135.33,
+    57.06
+   ],
+   "zoom": 150
+  },
+  {
+   "t": "w141",
+   "at": [
+    -135.3,
+    57.1
+   ],
+   "zoom": 170
+  },
+  {
+   "t": "w142",
+   "at": [
+    -105,
+    48
+   ],
+   "zoom": 8
+  },
+  {
+   "t": "w144",
+   "at": [
+    -77,
+    39
+   ],
+   "zoom": 30
+  },
+  {
+   "t": "w153",
+   "at": [
+    -77,
+    39.5
+   ],
+   "zoom": 34
+  },
+  {
+   "t": "w155",
+   "at": [
+    -150,
+    63
+   ],
+   "zoom": 18
+  },
+  {
+   "t": "w160",
+   "at": [
+    -152,
+    63
+   ],
+   "zoom": 17
+  },
+  {
+   "t": "w163",
+   "at": [
+    -149,
+    67
+   ],
+   "zoom": 26
+  },
+  {
+   "t": "w168",
+   "at": [
+    -148,
+    66
+   ],
+   "zoom": 28
+  },
+  {
+   "t": "w170",
+   "at": [
+    -152,
+    62
+   ],
+   "zoom": 15
+  },
+  {
+   "t": "w176",
+   "at": [
+    -152,
+    62.5
+   ],
+   "zoom": 16
+  },
+  {
+   "t": "w182",
+   "at": [
+    -150,
+    61
+   ],
+   "zoom": 13
+  },
+  {
+   "t": 74.6,
+   "at": [
+    -140,
+    56
+   ],
+   "zoom": 7
+  }
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "type": "skin",
+   "kind": "sat"
+  },
+  {
+   "t": 0,
+   "type": "clouds",
+   "dur": 0.8
+  },
+  {
+   "t": 0.45,
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "fade",
+   "color": "rgba(236,245,160,0.55)",
+   "glow": "rgba(255,255,255,0.95)",
+   "glowBlur": 38,
+   "stroke": "#ffffff",
+   "strokeW": 4,
+   "strokeGlow": 22,
+   "until": "w5"
+  },
+  {
+   "t": 0.3,
+   "type": "label",
+   "text": "Alaska",
+   "at": [
+    -152,
+    64.5
+   ],
+   "zoomRef": 19,
+   "until": "w8"
+  },
+  {
+   "t": "w5",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#D63A32",
+   "until": "w16"
+  },
+  {
+   "t": "w6",
+   "type": "fill",
+   "target": "RUS",
+   "style": "flash",
+   "color": "#D63A32",
+   "until": "w41"
+  },
+  {
+   "t": "w6",
+   "type": "flag",
+   "flag": "RUS",
+   "at": [
+    -152,
+    67.5
+   ],
+   "size": 130,
+   "zoomRef": 17,
+   "until": "w15"
+  },
+  {
+   "t": "w8",
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "fade",
+   "trans_dur": 0.8
+  },
+  {
+   "t": "w9",
+   "type": "date",
+   "text": "1867",
+   "style": "neon",
+   "until": "w11+0.4"
+  },
+  {
+   "t": "w12",
+   "type": "arrow",
+   "from": [
+    -150,
+    61
+   ],
+   "to": [
+    -102,
+    41
+   ],
+   "bend": 0.2,
+   "tail": 0.6,
+   "in": 0.9,
+   "dur": 2.0
+  },
+  {
+   "t": "w16",
+   "type": "fill",
+   "target": "USA",
+   "style": "flash",
+   "color": "#2D7DD2",
+   "until": "w41"
+  },
+  {
+   "t": "w17",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#2D7DD2",
+   "until": "w58"
+  },
+  {
+   "t": "w16",
+   "type": "label",
+   "text": "United States",
+   "at": [
+    -100,
+    39
+   ],
+   "flag": "USA",
+   "per": 1.4,
+   "fontSize": 104,
+   "zoomRef": 9,
+   "until": "w31"
+  },
+  {
+   "t": "w20",
+   "type": "badge",
+   "icon": "money",
+   "number": "$7.2M",
+   "at": {
+    "screen": [
+     540,
+     1080
+    ]
+   },
+   "scale": 1.1,
+   "until": "w25"
+  },
+  {
+   "t": "w26",
+   "type": "title",
+   "lines": [
+    [
+     "2\u00a2",
+     "#FFD54A"
+    ],
+    [
+     "an acre",
+     "#ffffff"
+    ]
+   ],
+   "y": 420,
+   "fontSize": 140,
+   "until": "w31"
+  },
+  {
+   "t": "w33",
+   "type": "question",
+   "at": [
+    -152,
+    66
+   ],
+   "dur": 2.0
+  },
+  {
+   "t": "w36",
+   "type": "scribble",
+   "at": [
+    -152,
+    63.5
+   ],
+   "size": 260,
+   "scaleWithZoom": false,
+   "dur": 1.6
+  },
+  {
+   "t": "w42",
+   "type": "skin",
+   "kind": "war",
+   "transition": "wipe",
+   "angle": 160,
+   "trans_dur": 0.4
+  },
+  {
+   "t": "w46",
+   "type": "firetitle",
+   "text": "CRIMEAN WAR",
+   "fontSize": 130,
+   "until": "w50+0.6"
+  },
+  {
+   "t": "w45",
+   "type": "fill",
+   "target": "RUS",
+   "style": "flash",
+   "color": "#A8352C",
+   "until": "w56"
+  },
+  {
+   "t": "w46",
+   "type": "fire",
+   "points": [
+    [
+     33.52,
+     44.6
+    ],
+    [
+     34.1,
+     44.95
+    ],
+    [
+     33.2,
+     45.2
+    ]
+   ],
+   "size": 70,
+   "smoke": true,
+   "until": "w56"
+  },
+  {
+   "t": "w47",
+   "type": "explosions",
+   "at": [
+    33.6,
+    44.8
+   ],
+   "radius": 150,
+   "count": 10,
+   "size": 100,
+   "dur": 2.4
+  },
+  {
+   "t": "w47",
+   "type": "flag",
+   "flag": "GBR",
+   "at": [
+    31.6,
+    43.6
+   ],
+   "size": 90,
+   "scaleWithZoom": false,
+   "until": "w55"
+  },
+  {
+   "t": "w48",
+   "type": "flag",
+   "flag": "FRA",
+   "at": [
+    32.6,
+    43.3
+   ],
+   "size": 90,
+   "scaleWithZoom": false,
+   "until": "w55"
+  },
+  {
+   "t": "w48",
+   "type": "flag",
+   "flag": "TUR",
+   "at": [
+    33.6,
+    43.1
+   ],
+   "size": 90,
+   "scaleWithZoom": false,
+   "until": "w55"
+  },
+  {
+   "t": "w48",
+   "type": "flag",
+   "flag": "RUS",
+   "at": [
+    34.2,
+    45.6
+   ],
+   "size": 100,
+   "scaleWithZoom": false,
+   "until": "w55"
+  },
+  {
+   "t": "w51",
+   "type": "badge",
+   "icon": "money",
+   "label": "treasury",
+   "at": {
+    "screen": [
+     540,
+     1050
+    ]
+   },
+   "until": "w56"
+  },
+  {
+   "t": "w55",
+   "type": "stamp",
+   "text": "EMPTY",
+   "at": {
+    "screen": [
+     540,
+     1050
+    ]
+   },
+   "dur": 0.9
+  },
+  {
+   "t": "w55",
+   "type": "whip",
+   "dur": 0.4
+  },
+  {
+   "t": "w56",
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "cut"
+  },
+  {
+   "t": "w58",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#CFE6F7",
+   "hatch": "diag",
+   "hatchColor": "rgba(60,110,160,0.18)",
+   "until": "w83"
+  },
+  {
+   "t": "w58",
+   "type": "label",
+   "text": "Alaska",
+   "at": [
+    -152,
+    64
+   ],
+   "flag": "RUS",
+   "zoomRef": 19,
+   "per": 2,
+   "until": "w65"
+  },
+  {
+   "t": "w62",
+   "type": "ring",
+   "at": [
+    -150,
+    62
+   ],
+   "color": "#ff3030",
+   "count": 3,
+   "radius": 260,
+   "scaleWithZoom": false
+  },
+  {
+   "t": "w66",
+   "type": "chibi",
+   "chibi": "trader",
+   "at": {
+    "place": [
+     -135.33,
+     57.06
+    ],
+    "dy": -60
+   },
+   "count": 3,
+   "size": 150,
+   "zoomRef": 70,
+   "until": "w83"
+  },
+  {
+   "t": "w68",
+   "type": "tag",
+   "text": "a few hundred Russians",
+   "at": {
+    "place": [
+     -135.33,
+     57.06
+    ],
+    "dx": -230,
+    "dy": 80
+   },
+   "fontSize": 40,
+   "until": "w82"
+  },
+  {
+   "t": "w74",
+   "type": "badge",
+   "icon": "otter",
+   "label": "sea otters",
+   "crossAfter": 1.9,
+   "at": {
+    "screen": [
+     540,
+     640
+    ]
+   },
+   "scale": 1.15,
+   "until": "w83"
+  },
+  {
+   "t": "w88",
+   "type": "fill",
+   "target": "CAN",
+   "style": "flash",
+   "color": "#C8202A",
+   "until": "w103"
+  },
+  {
+   "t": "w89",
+   "type": "label",
+   "text": "British Canada",
+   "at": [
+    -110,
+    60
+   ],
+   "flag": "UK_OLD",
+   "per": 1.4,
+   "fontSize": 100,
+   "zoomRef": 10,
+   "until": "w103"
+  },
+  {
+   "t": "w90",
+   "type": "googly",
+   "at": [
+    -118,
+    64
+   ],
+   "size": 46,
+   "scaleWithZoom": false,
+   "look": [
+    -1,
+    0
+   ],
+   "until": "w103"
+  },
+  {
+   "t": "w92",
+   "type": "chibi",
+   "chibi": "redcoat",
+   "at": [
+    -130,
+    57
+   ],
+   "count": 3,
+   "size": 140,
+   "scaleWithZoom": false,
+   "until": "w103"
+  },
+  {
+   "t": "w97",
+   "type": "arrow",
+   "from": [
+    -128,
+    59
+   ],
+   "to": [
+    -150,
+    64
+   ],
+   "bend": 0.25,
+   "tail": 0.7,
+   "width": 26,
+   "dur": 1.8
+  },
+  {
+   "t": "w99",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "pulse",
+   "color": "#C8202A",
+   "color2": "#CFE6F7",
+   "period": 0.5,
+   "alpha": 0.85,
+   "until": "w103"
+  },
+  {
+   "t": "w102",
+   "type": "stamp",
+   "text": "FREE",
+   "at": {
+    "screen": [
+     540,
+     860
+    ]
+   },
+   "dur": 0.8
+  },
+  {
+   "t": "w103",
+   "type": "skin",
+   "kind": "old",
+   "transition": "wipe",
+   "angle": 20,
+   "trans_dur": 0.35
+  },
+  {
+   "t": "w104",
+   "type": "fill",
+   "target": "RUS",
+   "style": "flash",
+   "color": "#B8322B",
+   "hatch": "vert",
+   "until": "w116"
+  },
+  {
+   "t": "w104",
+   "type": "chibi",
+   "chibi": "tsar",
+   "at": {
+    "screen": [
+     540,
+     1150
+    ]
+   },
+   "size": 560,
+   "scaleWithZoom": false,
+   "until": "w116"
+  },
+  {
+   "t": "w106",
+   "type": "tag",
+   "text": "Tsar Alexander II",
+   "at": {
+    "screen": [
+     400,
+     820
+    ]
+   },
+   "side": "left",
+   "fontSize": 42,
+   "until": "w116"
+  },
+  {
+   "t": "w106",
+   "type": "tag",
+   "text": "1818-1881",
+   "at": {
+    "screen": [
+     680,
+     900
+    ]
+   },
+   "fontSize": 42,
+   "until": "w116"
+  },
+  {
+   "t": "w109",
+   "type": "bubble",
+   "text": [
+    "sell Alaska before",
+    "Britain takes it!"
+   ],
+   "at": {
+    "screen": [
+     560,
+     560
+    ]
+   },
+   "tail": "left",
+   "scale": 0.9,
+   "until": "w116"
+  },
+  {
+   "t": "w114",
+   "type": "flag",
+   "flag": "USA",
+   "at": {
+    "screen": [
+     870,
+     1180
+    ]
+   },
+   "size": 170,
+   "scaleWithZoom": false,
+   "until": "w116"
+  },
+  {
+   "t": "w117",
+   "type": "chibi",
+   "chibi": "stoeckl",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dx": -170,
+    "dy": 40
+   },
+   "size": 260,
+   "scaleWithZoom": false,
+   "until": "w131"
+  },
+  {
+   "t": "w117",
+   "type": "tag",
+   "text": "Eduard de Stoeckl",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dx": -40,
+    "dy": -150
+   },
+   "side": "left",
+   "fontSize": 38,
+   "until": "w131"
+  },
+  {
+   "t": "w124",
+   "type": "chibi",
+   "chibi": "seward",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dx": 170,
+    "dy": 40
+   },
+   "size": 260,
+   "scaleWithZoom": false,
+   "flip": true,
+   "until": "w131"
+  },
+  {
+   "t": "w126",
+   "type": "tag",
+   "text": "William Seward",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dx": 50,
+    "dy": 210
+   },
+   "bg": "#2E9D3A",
+   "fg": "#fff",
+   "fontSize": 38,
+   "until": "w131"
+  },
+  {
+   "t": "w128",
+   "type": "document",
+   "title": [
+    "Treaty of Cession",
+    "of Russian America",
+    "March 30, 1867"
+   ],
+   "lines": [
+    "His Majesty the Emperor of all the Russias agrees",
+    "to cede to the United States all the territory",
+    "and dominion now possessed by His Majesty",
+    "on the continent of America and adjacent islands"
+   ],
+   "highlight": 2,
+   "until": "w132"
+  },
+  {
+   "t": "w133",
+   "type": "date",
+   "text": "Oct 18, 1867",
+   "style": "gold",
+   "fontSize": 140,
+   "per": 1.4,
+   "until": "w135+0.6"
+  },
+  {
+   "t": "w134",
+   "type": "pin",
+   "at": [
+    -135.33,
+    57.06
+   ],
+   "label": "Sitka",
+   "scaleWithZoom": false,
+   "until": "w142"
+  },
+  {
+   "t": "w134",
+   "type": "flag",
+   "flag": "RUS",
+   "at": {
+    "place": [
+     -135.33,
+     57.06
+    ],
+    "dx": 160,
+    "dy": -120
+   },
+   "size": 180,
+   "scaleWithZoom": false,
+   "exit": "shrink",
+   "until": "w138"
+  },
+  {
+   "t": "w139",
+   "type": "flag",
+   "flag": "USA",
+   "at": {
+    "place": [
+     -135.33,
+     57.06
+    ],
+    "dx": 160,
+    "dy": -120
+   },
+   "size": 180,
+   "scaleWithZoom": false,
+   "until": "w142"
+  },
+  {
+   "t": "w139",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#2D7DD2",
+   "alpha": 0.6,
+   "until": "w154"
+  },
+  {
+   "t": "w144",
+   "type": "chibi",
+   "chibi": "american",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dy": 40
+   },
+   "count": 4,
+   "size": 200,
+   "gap": 0.6,
+   "scaleWithZoom": false,
+   "until": "w152"
+  },
+  {
+   "t": "w146",
+   "type": "bubble",
+   "text": "HA HA HA",
+   "at": {
+    "place": [
+     -77,
+     39
+    ],
+    "dx": 120,
+    "dy": -230
+   },
+   "tail": "left",
+   "until": "w152"
+  },
+  {
+   "t": "w150",
+   "type": "stamp",
+   "text": "SEWARD'S FOLLY",
+   "fontSize": 84,
+   "at": {
+    "screen": [
+     540,
+     760
+    ]
+   },
+   "dur": 1.4
+  },
+  {
+   "t": "w152",
+   "type": "title",
+   "lines": [
+    [
+     "Seward's",
+     "#ffffff"
+    ],
+    [
+     "Icebox",
+     "#8FD8FF"
+    ]
+   ],
+   "y": 420,
+   "until": "w154"
+  },
+  {
+   "t": "w154",
+   "type": "title",
+   "lines": [
+    [
+     "Here's The",
+     "#ffffff"
+    ],
+    [
+     "Twist",
+     "#E42D2D"
+    ]
+   ],
+   "y": 400,
+   "until": "w157"
+  },
+  {
+   "t": "w155",
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "iris",
+   "origin": {
+    "screen": [
+     540,
+     960
+    ]
+   },
+   "trans_dur": 0.45
+  },
+  {
+   "t": "w155",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#2D7DD2",
+   "alpha": 0.85,
+   "until": "w170"
+  },
+  {
+   "t": "w158",
+   "type": "pin",
+   "at": [
+    -165.4,
+    64.5
+   ],
+   "label": "Nome",
+   "color": "#E8A317",
+   "scaleWithZoom": false,
+   "until": "w163"
+  },
+  {
+   "t": "w159",
+   "type": "pin",
+   "at": [
+    -134.4,
+    58.3
+   ],
+   "label": "Juneau",
+   "color": "#E8A317",
+   "scaleWithZoom": false,
+   "until": "w163"
+  },
+  {
+   "t": "w158",
+   "type": "badge",
+   "icon": "gold",
+   "label": "gold rush",
+   "at": {
+    "screen": [
+     540,
+     1180
+    ]
+   },
+   "until": "w161"
+  },
+  {
+   "t": "w160",
+   "type": "date",
+   "text": "1968",
+   "style": "white",
+   "until": "w163"
+  },
+  {
+   "t": "w166",
+   "type": "pin",
+   "at": [
+    -148.67,
+    70.29
+   ],
+   "label": "Prudhoe Bay",
+   "scaleWithZoom": false,
+   "until": "w170"
+  },
+  {
+   "t": "w166",
+   "type": "badge",
+   "icon": "oil",
+   "label": "oil",
+   "at": {
+    "screen": [
+     540,
+     1200
+    ]
+   },
+   "until": "w170"
+  },
+  {
+   "t": "w167",
+   "type": "line",
+   "points": [
+    [
+     -148.67,
+     70.29
+    ],
+    [
+     -149.2,
+     68.6
+    ],
+    [
+     -148.2,
+     66.8
+    ],
+    [
+     -147.7,
+     64.8
+    ],
+    [
+     -145.7,
+     63.0
+    ],
+    [
+     -146.35,
+     61.14
+    ]
+   ],
+   "color": "#F2B233",
+   "width": 7,
+   "in": 1.0,
+   "until": "w170"
+  },
+  {
+   "t": "w170",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#2D7DD2",
+   "until": "w183"
+  },
+  {
+   "t": "w171",
+   "type": "label",
+   "text": "Alaska",
+   "at": [
+    -152,
+    64.5
+   ],
+   "flag": "USA",
+   "zoomRef": 15,
+   "per": 2,
+   "until": "w177"
+  },
+  {
+   "t": "w177",
+   "type": "ghost",
+   "target": "USA:Texas",
+   "to": [
+    -153,
+    64.5
+   ],
+   "color": "#F28C28",
+   "label": "Texas",
+   "until": "w182"
+  },
+  {
+   "t": "w178",
+   "type": "ghost",
+   "target": "USA:California",
+   "to": [
+    -161,
+    61.5
+   ],
+   "color": "#58C46A",
+   "label": "California",
+   "fontSize": 44,
+   "until": "w182"
+  },
+  {
+   "t": "w180",
+   "type": "ghost",
+   "target": "USA:Montana",
+   "to": [
+    -145,
+    67.6
+   ],
+   "color": "#B07CE8",
+   "label": "Montana",
+   "fontSize": 44,
+   "until": "w182"
+  },
+  {
+   "t": "w183",
+   "type": "fill",
+   "target": "USA:Alaska",
+   "style": "flash",
+   "color": "#F7D10A",
+   "glow": "rgba(235,120,20,1)",
+   "glowBlur": 60
+  },
+  {
+   "t": "w184",
+   "type": "label",
+   "text": "2\u00a2 an acre",
+   "at": [
+    -152,
+    64.5
+   ],
+   "zoomRef": 13,
+   "per": 1.6
+  },
+  {
+   "t": "w186",
+   "type": "skin",
+   "kind": "sat",
+   "transition": "fade",
+   "trans_dur": 1.2
+  }
+ ]
+}

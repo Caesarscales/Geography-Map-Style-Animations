@@ -1,0 +1,249 @@
+{
+ "soldier_co": {
+  "skin": "#F4B98E",
+  "hair": "#3A2214",
+  "mustache": true,
+  "hat": {
+   "type": "helmet",
+   "color": "#6F5F3C"
+  },
+  "body": {
+   "color": "#6A6A44",
+   "belt": "#5C5233",
+   "straps": true,
+   "gear": "#8A7A52",
+   "patch": [
+    [
+     "#FCD116",
+     0.5
+    ],
+    [
+     "#003893",
+     0.25
+    ],
+    [
+     "#CE1126",
+     0.25
+    ]
+   ]
+  },
+  "arms": "rifle"
+ },
+ "un_mascot": {
+  "skin": "#F4B98E",
+  "hair": "#3B2416",
+  "mustache": true,
+  "hat": {
+   "type": "fedora",
+   "color": "#5E8DBF"
+  },
+  "body": {
+   "color": "#4A3328",
+   "collar": "#F2F2F2",
+   "tie": "#2B1E3D"
+  },
+  "arms": "hold",
+  "prop": "book"
+ },
+ "tribesman": {
+  "skin": "#E3AE86",
+  "hair": "#2A1A10",
+  "mustache": false,
+  "beard": false,
+  "browTilt": 0.3,
+  "hat": {
+   "type": "turban",
+   "color": "#EFE9DB"
+  },
+  "body": {
+   "color": "#F3EFE6",
+   "coat": "#2B2320",
+   "sash": "#8A2F28"
+  },
+  "arms": "down"
+ },
+ "admiral": {
+  "skin": "#F2C3A0",
+  "hair": "#B88A55",
+  "mustache": true,
+  "browTilt": 0.45,
+  "hat": {
+   "type": "cap",
+   "color": "#1E2533"
+  },
+  "body": {
+   "color": "#1F2838",
+   "collar": "#F2F2F2",
+   "tie": "#111"
+  },
+  "arms": "down"
+ },
+ "plane_olive": {
+  "kind": "plane",
+  "view": "top",
+  "color": "#5F6A3A",
+  "roundel": [
+   "#1E3A8A",
+   "#F2F2F2"
+  ],
+  "yaw": 0
+ },
+ "plane_grey": {
+  "kind": "plane",
+  "view": "top",
+  "color": "#8A9198",
+  "stripes": false,
+  "roundel": [
+   "#F2F2F2",
+   "#C8102E"
+  ]
+ },
+ "plane_col": {
+  "kind": "plane",
+  "view": "top",
+  "color": "#5F6A3A",
+  "roundel": [
+   "#FCD116",
+   "#CE1126"
+  ]
+ },
+ "ship_grey": {
+  "kind": "ship",
+  "view": "top3q",
+  "color": "#7C8590"
+ },
+ "ship_col": {
+  "kind": "ship",
+  "view": "top3q",
+  "color": "#7C8590",
+  "flag": [
+   [
+    "#FCD116",
+    0.5
+   ],
+   [
+    "#003893",
+    0.25
+   ],
+   [
+    "#CE1126",
+    0.25
+   ]
+  ]
+ },
+ "soldier_us": {
+  "skin": "#F4B98E",
+  "hair": "#3A2214",
+  "mustache": true,
+  "hat": {
+   "type": "helmet",
+   "color": "#6F5F3C",
+   "star": true
+  },
+  "body": {
+   "color": "#6A6A44",
+   "belt": "#5C5233",
+   "straps": true,
+   "gear": "#8A7A52",
+   "patch": [
+    [
+     "#B22234",
+     0.15
+    ],
+    [
+     "#FFFFFF",
+     0.15
+    ],
+    [
+     "#B22234",
+     0.15
+    ],
+    [
+     "#FFFFFF",
+     0.15
+    ],
+    [
+     "#3C3B6E",
+     0.4
+    ]
+   ]
+  },
+  "arms": "rifle"
+ },
+ "gomez": {
+  "skin": "#F2C2A2",
+  "hair": "#E9E4DA",
+  "mustache": false,
+  "bald": true,
+  "glasses": true,
+  "sideburns": false,
+  "brows": true,
+  "browTilt": 0.05,
+  "body": {
+   "color": "#2C2F36",
+   "collar": "#F2F2F2",
+   "tie": "#3A3F4A"
+  },
+  "arms": "down",
+  "chairIn": true
+ },
+ "un_mascot_hi": {
+  "skin": "#F4B98E",
+  "hair": "#3B2416",
+  "mustache": true,
+  "hat": {
+   "type": "fedora",
+   "color": "#5E8DBF"
+  },
+  "body": {
+   "color": "#4A3328",
+   "collar": "#F2F2F2",
+   "tie": "#2B1E3D"
+  },
+  "arms": "hold",
+  "prop": "book"
+ },
+ "howitzer": {
+  "kind": "howitzer",
+  "yaw": 1.25,
+  "scale": 0.62
+ },
+ "soldier_walk_a": {
+  "skin": "#F4B98E",
+  "hair": "#3A2214",
+  "mustache": true,
+  "hat": {
+   "type": "helmet",
+   "color": "#6F5F3C"
+  },
+  "body": {
+   "color": "#6A6A44",
+   "belt": "#5C5233",
+   "straps": true,
+   "gear": "#8A7A52"
+  },
+  "arms": "rifle",
+  "legs": true,
+  "legPhase": 0.6,
+  "yaw": -0.5
+ },
+ "soldier_walk_b": {
+  "skin": "#F4B98E",
+  "hair": "#3A2214",
+  "mustache": true,
+  "hat": {
+   "type": "helmet",
+   "color": "#6F5F3C"
+  },
+  "body": {
+   "color": "#6A6A44",
+   "belt": "#5C5233",
+   "straps": true,
+   "gear": "#8A7A52"
+  },
+  "arms": "rifle",
+  "legs": true,
+  "legPhase": 2.4,
+  "yaw": -0.5
+ }
+}

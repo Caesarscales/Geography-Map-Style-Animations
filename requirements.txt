@@ -1,0 +1,6 @@
+numpy
+pillow
+opencv-python
+scipy
+soundfile
+faster-whisper

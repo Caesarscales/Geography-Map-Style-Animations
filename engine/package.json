@@ -1,0 +1,1 @@
+{ "name": "geo-kit-engine", "private": true, "dependencies": { "playwright": "1.49.1" } }

@@ -1,0 +1,10 @@
+[Parsed_ebur128_0 @ 0x5567fc7dd200] Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.3 LUFS
+
+  Loudness range:
+
+[silencedetect @ 0x55945ef2e440] silence_start: 78.1822
+[silencedetect @ 0x55945ef2e440] silence_end: 78.4936 | silence_duration: 0.311315

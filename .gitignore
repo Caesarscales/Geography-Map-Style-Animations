@@ -1,0 +1,9 @@
+audio_lib/sfx/*
+!audio_lib/sfx/README.md
+audio_lib/music/*
+!audio_lib/music/README.md
+node_modules/
+__pycache__/
+*.pyc
+projects/*/out/
+.DS_Store

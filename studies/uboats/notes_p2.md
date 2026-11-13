@@ -1,0 +1,2 @@
+U-BOATS — PASS 2 (30 fps)
+WHIP PAN f762-790: true whip: map smears sideways with heavy directional motion blur for ~10 f (f764-773), a dark vertical band = the blurred map edge rushing past; blur then decays over ~8 f while the camera decelerates into Asia/Europe. Title "4 Days later..." starts typing DURING the blur (f769): "4 Days" (red, chunky, dark shadow) first, then "later..." (white) letter by letter ~1 letter / 2 f, each letter born small. A chibi pops at f788 once the map is sharp.

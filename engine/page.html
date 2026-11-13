@@ -1,0 +1,9 @@
+<!doctype html><html><body style="margin:0;background:#000"><canvas id="c" width="1080" height="1920"></canvas>
+<script type="module">
+import * as B from './beats.js';
+const q = new URLSearchParams(location.search); const c = document.getElementById('c'); const ctx = c.getContext('2d');
+try { await B.load('../projects/' + q.get('p')); } catch (e) { console.log('LOAD ERROR ' + e.message); }
+window.total = B.P.total; window.sfx = B.P.sfx;
+window.grab = (f, qq = 0.92) => { B.drawFrame(ctx, f); return c.toDataURL('image/jpeg', qq); };
+window.ready = true;
+</script></body></html>

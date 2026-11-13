@@ -1,0 +1,14 @@
+{
+ "tsar": {"skin":"#F2C3A0","hair":"#6B4A30","mustache":true,"sideburns":true,"browTilt":0.2,"hat":{"type":"officer","color":"#EDEBE3","band":"#C8102E"},
+   "body":{"color":"#1F3B2C","collar":"#C8102E","epaulettes":"#D4AF37","buttons":"#D4AF37","medals":true,"belt":"#D4AF37"},"arms":"down"},
+ "stoeckl": {"skin":"#F2C3A0","hair":"#2E2219","mustache":true,"browTilt":0.1,"hat":{"type":"tophat","color":"#18181C"},
+   "body":{"color":"#24232A","collar":"#F2F2F2","tie":"#5A1E24"},"arms":"hold","prop":"paper"},
+ "seward": {"skin":"#F0C2A2","hair":"#D9D6CE","mustache":false,"browTilt":0.05,"sideburns":true,
+   "body":{"color":"#2A2A30","collar":"#F2F2F2","tie":"#1A1A1A"},"arms":"hold","prop":"bag"},
+ "trader": {"skin":"#EDB48C","hair":"#5A3B22","beard":true,"mustache":true,"hat":{"type":"ushanka","color":"#6B4A33"},
+   "body":{"color":"#7A4E2E","belt":"#3A2618","coat":"#5C3A22"},"arms":"down"},
+ "redcoat": {"skin":"#F2C3A0","hair":"#5A3B22","mustache":true,"hat":{"type":"shako","color":"#141416"},
+   "body":{"color":"#C8202A","crossbelts":"#F2F2F2","buttons":"#D4AF37","belt":"#F2F2F2"},"arms":"rifle"},
+ "american": {"skin":"#F2C3A0","hair":"#4A3020","mustache":true,"hat":{"type":"tophat","color":"#3A3028","band":"#1A1A1A"},
+   "body":{"color":"#4A3A5A","collar":"#F2F2F2","tie":"#8A2020"},"arms":"down"}
+}

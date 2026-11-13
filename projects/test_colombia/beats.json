@@ -1,0 +1,744 @@
+{
+ "meta": {
+  "title": "Test: Colombia intro in beat-list format",
+  "words": "words.json",
+  "duration": 24.6,
+  "watermark": "",
+  "regions": [
+   "korea"
+  ]
+ },
+ "camera": [
+  {
+   "t": 0,
+   "at": "COL",
+   "zoom": 12,
+   "dlon": -6,
+   "dlat": 4
+  },
+  {
+   "t": 0.9,
+   "at": "COL",
+   "zoom": 38
+  },
+  {
+   "t": 1.7,
+   "at": "COL",
+   "zoom": 36
+  },
+  {
+   "t": 2.4,
+   "at": [
+    -140,
+    20
+   ],
+   "zoom": 11
+  },
+  {
+   "t": 3.4,
+   "at": [
+    127.5,
+    37.5
+   ],
+   "zoom": 40
+  },
+  {
+   "t": 4.6,
+   "at": "Korea",
+   "zoom": 100
+  },
+  {
+   "t": "w19",
+   "at": "Korea",
+   "zoom": 62
+  },
+  {
+   "t": "w23",
+   "at": "Korea",
+   "zoom": 70
+  },
+  {
+   "t": "w29",
+   "at": "North Korea",
+   "zoom": 150
+  },
+  {
+   "t": "w33",
+   "at": "South Korea",
+   "zoom": 175
+  },
+  {
+   "t": "w37",
+   "at": "Korea",
+   "zoom": 115
+  },
+  {
+   "t": "w42",
+   "at": "South Korea",
+   "zoom": 140
+  },
+  {
+   "t": "w51",
+   "at": "Korea",
+   "zoom": 120
+  },
+  {
+   "t": "w54",
+   "at": "COL",
+   "zoom": 32
+  },
+  {
+   "t": "w62",
+   "at": "COL",
+   "zoom": 36
+  },
+  {
+   "t": "w69",
+   "at": [
+    -85,
+    22
+   ],
+   "zoom": 13
+  },
+  {
+   "t": 24.6,
+   "at": [
+    -88,
+    28
+   ],
+   "zoom": 13
+  }
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "type": "skin",
+   "kind": "sat"
+  },
+  {
+   "t": 0,
+   "type": "clouds",
+   "dur": 0.75
+  },
+  {
+   "t": 0.55,
+   "type": "fill",
+   "target": "COL",
+   "style": "fade",
+   "color": "rgba(236,245,160,0.55)",
+   "glow": "rgba(255,255,255,0.95)",
+   "glowBlur": 38,
+   "stroke": "#ffffff",
+   "strokeW": 4,
+   "strokeGlow": 22,
+   "until": 2.3
+  },
+  {
+   "t": 0.05,
+   "type": "label",
+   "text": "Colombia",
+   "at": "COL",
+   "flag": "COL",
+   "until": 2.1
+  },
+  {
+   "t": 1.7,
+   "type": "arrow",
+   "from": [
+    -77.5,
+    6.5
+   ],
+   "to": [
+    -230.4,
+    38.6
+   ],
+   "bend": -0.06,
+   "tail": 0.25,
+   "in": 2.0,
+   "dur": 2.3
+  },
+  {
+   "t": 1.72,
+   "type": "arrow",
+   "from": [
+    -77.5,
+    2.8
+   ],
+   "to": [
+    -230.2,
+    36.2
+   ],
+   "bend": -0.05,
+   "tail": 0.25,
+   "in": 2.0,
+   "dur": 2.3
+  },
+  {
+   "t": 2.2,
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "fade",
+   "trans_dur": 0.8
+  },
+  {
+   "t": 2.7,
+   "type": "fill",
+   "target": "PRK",
+   "style": "fade",
+   "color": "#D8111C",
+   "until": "w22"
+  },
+  {
+   "t": 2.7,
+   "type": "fill",
+   "target": "KOR",
+   "style": "fade",
+   "color": "#2D7DD2",
+   "until": "w22"
+  },
+  {
+   "t": 3.8,
+   "type": "ring",
+   "at": [
+    128.9,
+    38.6
+   ],
+   "color": "#ffffff",
+   "count": 2,
+   "radius": 420
+  },
+  {
+   "t": 3.8,
+   "type": "ring",
+   "at": [
+    129.0,
+    36.2
+   ],
+   "color": "#ff3030",
+   "count": 2,
+   "radius": 380
+  },
+  {
+   "t": 3.5,
+   "type": "sprite",
+   "sprite": "plane_olive",
+   "path": [
+    [
+     125.5,
+     39.5
+    ],
+    [
+     129.5,
+     36.0
+    ]
+   ],
+   "size": 120,
+   "altitude": 30,
+   "dur": 2.2
+  },
+  {
+   "t": 3.6,
+   "type": "sprite",
+   "sprite": "plane_grey",
+   "path": [
+    [
+     130,
+     39
+    ],
+    [
+     126,
+     35.5
+    ]
+   ],
+   "size": 110,
+   "altitude": 30,
+   "dur": 2.1
+  },
+  {
+   "t": 3.7,
+   "type": "sprite",
+   "sprite": "plane_olive",
+   "path": [
+    [
+     126,
+     34.8
+    ],
+    [
+     128.8,
+     38.8
+    ]
+   ],
+   "size": 115,
+   "altitude": 30,
+   "dur": 2.0
+  },
+  {
+   "t": 3.7,
+   "type": "sprite",
+   "sprite": "ship_grey",
+   "at": [
+    130.0,
+    35.4
+   ],
+   "size": 80,
+   "rot": 12,
+   "dur": 2.0
+  },
+  {
+   "t": 3.8,
+   "type": "sprite",
+   "sprite": "ship_grey",
+   "at": [
+    130.3,
+    36.0
+   ],
+   "size": 80,
+   "rot": 12,
+   "dur": 1.9
+  },
+  {
+   "t": 3.9,
+   "type": "sprite",
+   "sprite": "ship_grey",
+   "at": [
+    130.0,
+    36.6
+   ],
+   "size": 80,
+   "rot": 12,
+   "dur": 1.8
+  },
+  {
+   "t": 3.8,
+   "type": "explosions",
+   "at": [
+    127.5,
+    37.6
+   ],
+   "radius": 220,
+   "count": 12,
+   "size": 90,
+   "dur": 2.0
+  },
+  {
+   "t": "w18",
+   "type": "date",
+   "text": "WWII",
+   "style": "fire",
+   "fontSize": 230,
+   "per": 1,
+   "until": "w22+0.3"
+  },
+  {
+   "t": "w22",
+   "type": "flash",
+   "at": "Korea",
+   "dur": 0.5
+  },
+  {
+   "t": "w22",
+   "type": "fill",
+   "target": [
+    "PRK",
+    "KOR"
+   ],
+   "style": "flash",
+   "color": "#2F8F3E",
+   "until": "w29+0.4",
+   "hatch": "horiz",
+   "alpha": 0.88
+  },
+  {
+   "t": "w28",
+   "type": "skin",
+   "kind": "teal",
+   "transition": "blob",
+   "trans_dur": 0.45,
+   "origin": {
+    "screen": [
+     180,
+     1500
+    ]
+   }
+  },
+  {
+   "t": "w28",
+   "type": "flag",
+   "flag": "USSR",
+   "at": {
+    "place": "North Korea",
+    "dy": -130
+   },
+   "size": 130,
+   "until": "w36+0.4"
+  },
+  {
+   "t": "w29",
+   "type": "label",
+   "text": "communist north",
+   "at": {
+    "place": "North Korea",
+    "dy": 20
+   },
+   "per": 1.2,
+   "fontSize": 80,
+   "scaleWithZoom": false,
+   "until": "w36+0.4"
+  },
+  {
+   "t": "w29",
+   "type": "fill",
+   "target": "PRK",
+   "style": "spread",
+   "origin": [
+    130.5,
+    42.3
+   ],
+   "color": "#D8111C",
+   "in": 0.8,
+   "radius": 1300,
+   "until": "w54"
+  },
+  {
+   "t": "w33",
+   "type": "flag",
+   "flag": "USA",
+   "at": {
+    "place": "South Korea",
+    "dx": -250
+   },
+   "size": 100,
+   "until": "w36+0.4"
+  },
+  {
+   "t": "w33",
+   "type": "label",
+   "text": "backed south",
+   "at": {
+    "place": "South Korea",
+    "dx": 50
+   },
+   "per": 1.4,
+   "fontSize": 80,
+   "scaleWithZoom": false,
+   "until": "w36+0.4"
+  },
+  {
+   "t": "w34",
+   "type": "fill",
+   "target": "KOR",
+   "style": "spread",
+   "origin": [
+    127.8,
+    34.2
+   ],
+   "color": "#2D7DD2",
+   "in": 1.0,
+   "radius": 1300,
+   "until": "w54"
+  },
+  {
+   "t": "w36",
+   "type": "date",
+   "text": "1950",
+   "style": "neon",
+   "until": "w41"
+  },
+  {
+   "t": "w37",
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "shrink",
+   "origin": "Korea",
+   "trans_dur": 0.4
+  },
+  {
+   "t": "w39",
+   "type": "front",
+   "target": "KOR",
+   "color": "rgba(216,17,28,0.92)",
+   "from": [
+    127.6,
+    38.4
+   ],
+   "to": [
+    127.8,
+    34.8
+   ],
+   "progress": [
+    [
+     "w39",
+     0.05
+    ],
+    [
+     "w45",
+     0.7
+    ]
+   ],
+   "until": "w54"
+  },
+  {
+   "t": "w39",
+   "type": "arrow",
+   "from": [
+    126.6,
+    38.6
+   ],
+   "to": [
+    126.5,
+    35.9
+   ],
+   "bend": -0.25,
+   "tail": 0.6,
+   "width": 22,
+   "dur": 1.5
+  },
+  {
+   "t": "w39",
+   "type": "arrow",
+   "from": [
+    128.9,
+    38.6
+   ],
+   "to": [
+    129.1,
+    36.0
+   ],
+   "bend": 0.25,
+   "tail": 0.6,
+   "width": 22,
+   "dur": 1.5
+  },
+  {
+   "t": "w38",
+   "type": "flag",
+   "flag": "KOR",
+   "at": [
+    128.1,
+    36.0
+   ],
+   "size": 80,
+   "until": "w54"
+  },
+  {
+   "t": "w38",
+   "type": "flag",
+   "flag": "KOR",
+   "at": [
+    127.2,
+    35.6
+   ],
+   "size": 80,
+   "until": "w54"
+  },
+  {
+   "t": "w40",
+   "type": "flag",
+   "flag": "PRK",
+   "at": [
+    127.4,
+    37.3
+   ],
+   "size": 80,
+   "until": "w54"
+  },
+  {
+   "t": "w40",
+   "type": "flag",
+   "flag": "CHN",
+   "at": [
+    128.4,
+    37.0
+   ],
+   "size": 80,
+   "until": "w54"
+  },
+  {
+   "t": "w41",
+   "type": "reticle",
+   "at": [
+    127.4,
+    37.3
+   ],
+   "dur": 0.6
+  },
+  {
+   "t": "w41",
+   "type": "reticle",
+   "at": [
+    128.4,
+    37.0
+   ],
+   "dur": 0.6
+  },
+  {
+   "t": "w41",
+   "type": "vignette",
+   "dur": 1.2
+  },
+  {
+   "t": "w44",
+   "type": "chibi",
+   "chibi": "un_mascot_hi",
+   "at": {
+    "screen": [
+     400,
+     1100
+    ]
+   },
+   "size": 520,
+   "scaleWithZoom": false,
+   "until": "w51"
+  },
+  {
+   "t": "w44",
+   "type": "emblem",
+   "icon": "un",
+   "at": {
+    "screen": [
+     400,
+     1080
+    ]
+   },
+   "size": 230,
+   "scaleWithZoom": false,
+   "until": "w51",
+   "layer": 3
+  },
+  {
+   "t": "w46",
+   "type": "bubble",
+   "text": [
+    "come-on guys",
+    "we have to help"
+   ],
+   "at": {
+    "screen": [
+     730,
+     760
+    ]
+   },
+   "scale": 0.85,
+   "until": "w51"
+  },
+  {
+   "t": "w54",
+   "type": "whip",
+   "dur": 0.4
+  },
+  {
+   "t": "w54",
+   "type": "skin",
+   "kind": "atlas",
+   "transition": "cut"
+  },
+  {
+   "t": "w54",
+   "type": "fill",
+   "target": "COL",
+   "style": "fade",
+   "in": 0.1,
+   "color": "#F2F21C",
+   "stroke": "rgba(255,255,255,0.9)",
+   "strokeW": 3
+  },
+  {
+   "t": "w54",
+   "type": "label",
+   "text": "Colombia",
+   "at": {
+    "place": "COL",
+    "dy": 60
+   },
+   "per": 0.6,
+   "zoomRef": 36
+  },
+  {
+   "t": "w56",
+   "type": "chibi",
+   "chibi": "gomez",
+   "at": {
+    "place": "COL",
+    "dy": -110
+   },
+   "size": 300,
+   "zoomRef": 36,
+   "until": 24.0
+  },
+  {
+   "t": "w57",
+   "type": "tag",
+   "text": "Laureano Gomez",
+   "at": {
+    "place": "COL",
+    "dx": -90,
+    "dy": -200
+   },
+   "side": "left",
+   "fontSize": 38,
+   "until": 24.0
+  },
+  {
+   "t": "w57",
+   "type": "tag",
+   "text": "1889-1965",
+   "at": {
+    "place": "COL",
+    "dx": 90,
+    "dy": -120
+   },
+   "fontSize": 38,
+   "until": 24.0
+  },
+  {
+   "t": "w64",
+   "type": "emblem",
+   "icon": "un",
+   "at": {
+    "place": "COL",
+    "dx": 150,
+    "dy": -250
+   },
+   "size": 90,
+   "zoomRef": 36,
+   "until": 24.0
+  },
+  {
+   "t": "w69",
+   "type": "line",
+   "points": [
+    [
+     -74,
+     5
+    ],
+    [
+     -98,
+     38
+    ]
+   ],
+   "color": "#ffffff",
+   "width": 5,
+   "in": 1.0,
+   "until": "w74"
+  },
+  {
+   "t": "w71",
+   "type": "fill",
+   "target": "USA",
+   "style": "wipe",
+   "angle": 90,
+   "color": "#1F7BE0",
+   "alpha": 0.9,
+   "in": 0.4
+  },
+  {
+   "t": "w71",
+   "type": "label",
+   "text": "United States",
+   "at": "USA",
+   "flag": "USA",
+   "per": 1.6,
+   "fontSize": 100
+  }
+ ]
+}

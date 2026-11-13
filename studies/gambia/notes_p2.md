@@ -1,0 +1,6 @@
+GAMBIA — PASS 2 (true 30 fps; numbers = frame @30)
+NOTE: 60 fps file with doubled frames => authored at 30 fps.
+RIVER FOCUS f279-293: red pushpin drops from above at the river (shadow-needle visible), ~6 f fall. Old labels/flags shrink to 0 over ~6 f. Cyan river line draws on from the pin outward both ways. Map DESATURATES gradually (~10 f) toward grey while vignette darkens edges; the white ring around the pin grows 0->~60 px.
+RECOLOUR FLASH f1290-1304: navy fill -> desaturated grey-lavender (f1293) -> pure WHITE (f1295, holds ~4 f) -> mint (f1300) -> green (f1304+); flag/label type in on top during the white->colour stage. Old tokens (banner) shrink out during white. Total ~14 f. This white-flash recolour is used every time a territory changes identity.
+FLAG CHARACTER f1656-1670: flag sticker pops on the corridor rotated, rights itself (~4 f), googly eyes blink on, then a noodle arm with a white cartoon glove grows out from the flag's side (~6 f) and keeps waving (hand rotates ±15 deg). Pin + label above shrink out simultaneously.
+CALENDAR f1848-1862: 3D tear-off calendar (two black rings, white page, red "Year" band) with a huge soft drop shadow offset down-right; it drifts/rotates slowly (~0.2 deg/f) while held; at f1861 the top page starts flipping up/over (page flip ~6 f) to reveal the next year.

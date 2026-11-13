@@ -1,0 +1,15 @@
+<!doctype html><html><body style="margin:0;background:transparent">
+<canvas id="c"></canvas>
+<script type="module">
+import { build, stage, THREE } from './chibi.js';
+const W = +(new URLSearchParams(location.search).get('w') || 600), H = W * 4 / 3;
+const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true, alpha: true, preserveDrawingBuffer: true });
+renderer.setSize(W, H); renderer.setPixelRatio(1); renderer.setClearColor(0x000000, 0);
+window.renderSpec = (spec) => {
+  const { scene, cam } = stage(renderer, W, H, spec.view);
+  const g = build(spec); if (spec.yaw) g.rotation.y = spec.yaw; if (spec.scale) g.scale.setScalar(spec.scale); scene.add(g);
+  renderer.render(scene, cam);
+  return document.getElementById('c').toDataURL('image/png');
+};
+window.ready = true;
+</script></body></html>
